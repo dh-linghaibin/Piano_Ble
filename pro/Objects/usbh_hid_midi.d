@@ -1,0 +1,39 @@
+.\objects\usbh_hid_midi.o: ..\user\src\usbh_hid_midi.c
+.\objects\usbh_hid_midi.o: ..\user\inc\usbh_hid_midi.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_HOST_Library\Core\inc\usbh_core.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_OTG_Driver\inc\usb_hcd.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_OTG_Driver\inc\usb_regs.h
+.\objects\usbh_hid_midi.o: ..\user\inc\usb_conf.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\CMSIS\Device\ST\STM32F10x\Include\stm32f10x.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\CMSIS\Include\core_cm3.h
+.\objects\usbh_hid_midi.o: C:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdint.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\CMSIS\Include\core_cmInstr.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\CMSIS\Include\core_cmFunc.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\CMSIS\Device\ST\STM32F10x\Include\system_stm32f10x.h
+.\objects\usbh_hid_midi.o: ..\user\inc\stm32f10x_conf.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\CMSIS\Device\ST\STM32F10x\Include\stm32f10x.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_OTG_Driver\inc\usb_core.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_OTG_Driver\inc\usb_defines.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_HOST_Library\Core\inc\usbh_def.h
+.\objects\usbh_hid_midi.o: ..\user\inc\usbh_conf.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_HOST_Library\Core\inc\usbh_stdreq.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_OTG_Driver\inc\usb_bsp.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_HOST_Library\Core\inc\usbh_ioreq.h
+.\objects\usbh_hid_midi.o: ..\bsp\Libraries\STM32_USB_HOST_Library\Core\inc\usbh_hcs.h
+.\objects\usbh_hid_midi.o: C:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\stdio.h
+.\objects\usbh_hid_midi.o: ..\user\inc\usart.h
+.\objects\usbh_hid_midi.o: ..\user\inc\stm32arduino.h
+.\objects\usbh_hid_midi.o: ..\user\inc\gpio.h
+.\objects\usbh_hid_midi.o: ..\user\inc\stm32arduino.h
+.\objects\usbh_hid_midi.o: ..\user\inc\delay.h
+.\objects\usbh_hid_midi.o: ..\user\inc\calendar_rtc.h
+.\objects\usbh_hid_midi.o: C:\Program Files (x86)\ARM\ADSv1_2\INCLUDE\time.h
